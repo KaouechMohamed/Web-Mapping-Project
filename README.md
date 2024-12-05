@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ### Screenshots 📸
 1. **OpenLayers Map with GeoServer Layers**
-   ![OpenLayers Map](Images/openlayerMAP.PNG)
+   ![OpenLayers Map](Images/openLayerMAP.PNG)
 
 2. **Displaying Shapes Existing in the Database**
    ![Displaying Shapes from Database](Images/polygone.PNG)
